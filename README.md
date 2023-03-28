@@ -46,4 +46,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 
 If you have any questions or comments about this project, please feel free to contact ME using the contact information in the `package.json` file.
-This code can be used in a README.md file for a GitHub repository.
+
